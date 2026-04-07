@@ -1,10 +1,6 @@
 # **Clustering on Health & Lifestyle Dataset**
 ---
 
-| Name | NRP | Mata Kuliah | Kelas |
-|---|---|---|---|
-| Rahma Sakinah | 5025241222 | Pembelajaran Mesin | D |
-
 ## Dataset
 ---
 
